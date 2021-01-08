@@ -1,43 +1,36 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
+    
     <li v-for="user in users" :key="user.id">
-      {{user.name}} 
-      <br> 
-      {{user.description}}
-      <br> 
-      Drinnen: {{user.indoor}}
-      <br> 
-      Alleine: {{user.allone}}
-      <br> 
-      <br> 
+    <Interest 
+      :name="user.name" 
+      :description="user.description"
+      :inside="user.indoor"
+      :allone="user.allone"
+    />
     </li>
-<!--
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-    -->
   </div>
 </template>
 <!--
 <script>
-import HelloWorld from './components/HelloWorld.vue'
 
-export default {
-  name: 'App',
-  components: {
-    HelloWorld
-  }
-}
 </script>
 -->
 
 <script>
 import usersData from "./assets/interests.json";
+import Interest from './components/Interest.vue'
 export default {
   data() {
     return {
       users: usersData,
       };
   },
+  name: 'App',
+  components: {
+    Interest
+  }
 };
 </script>
 

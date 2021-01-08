@@ -3,12 +3,12 @@
     <img alt="Vue logo" src="./assets/logo.png">
     
     <li v-for="user in users" :key="user.id">
-    <Interest 
+    <Interest
       :name="user.name" 
       :description="user.description"
       :inside="user.indoor"
       :allone="user.allone"
-    />
+    /><br>
     </li>
   </div>
 </template>
@@ -42,5 +42,8 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+ul, li {
+    list-style-type: none;
 }
 </style>

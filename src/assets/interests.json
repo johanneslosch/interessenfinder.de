@@ -1,0 +1,149 @@
+[
+    {
+      "id": 1,
+      "name": "Escape Rooms | Live Escape Games",
+      "description": "Der Freizeittrend der letzten Jahre. Du bist in einem Raum für 60 Minuten eingeschlossen und musst bestimmte Missionen und Rätsel lösen. Hier findest du viele verschiedene Escape Rooms, die ich schon getestet habe.",
+      "indoor": "Ja",
+      "allone": "Nein"
+    },
+    {
+      "id": 2,
+      "name": "Schwimmbäder & Thermen",
+      "description": "Entspannung in der Therme oder Action im Erlebnisbad, das geht fast immer. Egal für welche der beiden Varianten du dich entscheidest, diese Freizeitaktivität geht fast immer.",
+      "indoor": "Ja/Nein",
+      "allone": "Ja/Nein"
+    },
+    {
+        "id": 3,
+        "name": "Gokart fahren",
+        "description": "Gokart fahren ist eine Freizeitaktivität, die sich optimal für Adrenalinjunkies eignet. Miete dir entweder eine ganze Strecke mit ein paar Freunden oder fahre alleine und schließe dich anderen Fahrern an.",
+        "indoor": "Ja/Nein",
+        "allone": "Ja/Nein"
+    },
+    {
+        "id": 4,
+        "name": "Bowling & Billard spielen",
+        "description": "Bowling & Billard spielen ist ein absoluter Klassiker. In jeder Stadt findest du Bowlingbahnen und Billardhallen, wo du in deiner freien Zeit ein paar Minuten oder Stunden verbringen kannst.",
+        "indoor": "Ja",
+        "allone": "Ja/Nein"
+    },
+    {
+        "id": 5,
+        "name": "Kino",
+        "description": "Auch ein Klassiker unter der Freizeitaktivitäten ist ein Kinobesuch. Zieh dir den neuesten Blockbuster rein oder schau dir einen alternativen Streifen an.",
+        "indoor": "Ja",
+        "allone": "Ja/Nein"
+    },
+    {
+        "id": 6,
+        "name": "Shoppen gehen",
+        "description": "Klar, um dir deine Zeit zu vertreiben, kannst du auch shoppen gehen. Vielleicht nicht die günstigste Freizeitaktivität, aber besonders zu zweit macht Shoppen viel Spaß. \n Bei schlechtem Wetter kannst du in ein überdachtes Einkaufszentrum gehen und bei schönem Wetter einen Bummel durch die Fußgängerzone machen.",
+        "indoor": "Ja/Nein",
+        "allone": "Ja/Nein"
+    },
+    {
+        "id": 7,
+        "name": "Gesellschaftsspiele",
+        "description": "Immer gut geeignet als Freizeitaktivität sind Gesellschaftsspiele. Besonders zusammen mit der Familie bzw. Freunden kann man sich so ein paar schöne Stunden machen.",
+        "indoor": "Ja/Nein",
+        "allone": "Nein"
+    },
+    {
+        "id": 8,
+        "name": "Motorsport- und Flugsimulatoren",
+        "description": "Einmal selber ein Flugzeug fliegen, das ist der Traum vieler Menschen. In einem Flugsimulator kommst du diesem Erlebnis ziemlich nah. In vielen Deutschen Städten gibt es Flugsimulatoren.",
+        "indoor": "Ja",
+        "allone": "Ja"
+    },
+    {
+        "id": 9,
+        "name": "Slotcar Racing",
+        "description": "Rennwagen fahren geht auch in Klein. Was früher die Carrerabahn für Zuhause war, gibt es heute an vielen Orten in Groß, auf einer Slotcar-Rennstrecke.",
+        "indoor": "Ja",
+        "allone": "Nein"
+    },
+    {
+        "id": 10,
+        "name": "Ins Museum gehen",
+        "description": "Klar, auch ins Museum gehen ist eine super Freizeitaktivität. Hier kannst du ein paar Stunden verbringen und dich nebenbei noch weiterbilden.",
+        "indoor": "Ja/Nein",
+        "allone": "Ja/Nein"
+    },
+    {
+        "id": 11,
+        "name": "Indoor-Minigolf",
+        "description": "Minigolf ist eine besonders spaßige Freizeitaktivität. Beim Indoor-Minigolf gibt es meist sogar noch einen zusätzlichen Effekt mit Schwarzlicht-Beleuchtung und Neongemälden. So wird Indoor-Minigolf auch häufig als 3D-Minigolf bezeichnet.",
+        "indoor": "Ja",
+        "allone": "Ja/Nein"
+    },
+    {
+        "id": 12,
+        "name": "Skifahren",
+        "description": "Auch in der Halle kannst du Skifahren. In Deutschland gibt es besonders in Gegenden, in denen es nicht so viele Berge gibt, Skihallen.",
+        "indoor": "Ja/Nein",
+        "allone": "Ja/Nein"
+    },
+    {
+        "id": 13,
+        "name": "Klettern & Bouldern",
+        "description": "Wenn du dich sportlich betätigen möchtest, dann eignet sich diese Freizeitaktivität hervorragend für dich. Kletterhallen gibt es in den meisten Städten in Deutschland und die meisten Anlagen haben auch Boulderwände, an denen du ohne Sicherung in Bodennähe klettern kannst.",
+        "indoor": "Ja",
+        "allone": "Ja/Nein"
+    },
+    {
+        "id": 14,
+        "name": "Kochkurse",
+        "description": "Warum nicht mal kochen lernen. Nicht die typische Aktivität, aber eine ganz Coole. Es gibt Kochkurse in für die verschiedensten Gerichte.",
+        "indoor": "Ja",
+        "allone": ""
+    },
+    {
+        "id": 15,
+        "name": "Beachvolleyball | Fußball | Squash | Tennis",
+        "description": "Sport geht eigentlich immer. Doch wenn das Wetter nicht so gut ist, fehlen manchmal die Alternativen.",
+        "indoor": "Ja/Nein",
+        "allone": "Nein"
+    },
+    {
+        "id": 16,
+        "name": "Paintball",
+        "description": "Paintball ist eine sehr adrenalingeladene Freizeitaktivität. Du spielst Paintball im Team und beschießt die gegnerische Mannschaft mit Farbkugeln.",
+        "indoor": "Ja/Nein",
+        "allone": "Nein"
+    },
+    {
+        "id": 17,
+        "name": "Lasertag",
+        "description": "Lasertag ist die schmerzfreie Variante von Paintball, denn hier schießt du auf denen Gegner mit einer Laserpistole, die dann einen Sensor auslösen, wenn du ihn getroffen hast.",
+        "indoor": "Ja",
+        "allone": "Nein"
+    },
+    {
+        "id": 18,
+        "name": "Trampolinhallen",
+        "description": "Hier springst du auf zahlreichen Trampolinen und übst deine Tricks in den verschiedensten Varianten.",
+        "indoor": "Ja",
+        "allone": "Ja/Nein"
+    },
+    {
+        "id": 19,
+        "name": "Eine neue Fähgkeit lernen",
+        "description": "Lerne doch mal etwas Neues. Wie wäre es, wenn du dir eine neue Sprache beibringst, ein Instrument spielen lernst, oder einen Online-Kurs machst, in dem du dir neues Wissen aneignest.",
+        "indoor": "Ja/Nein",
+        "allone": "Ja/Nein"
+    },
+    {
+        "id": 20,
+        "name": "Outdoor-Freizeitaktivitäten | Was kann man draußen machen?",
+        "description": "Wenn das Wetter schön ist, dann möchtest du deine Freizeitaktivitäten vielleicht lieber nach draußen verlagern, um die Sonne zu genießen.",
+        "indoor": "Ja",
+        "allone": "Ja/Nein"
+    },
+    {
+        "id": 21,
+        "name": "Ins Freibad oder an den See",
+        "description": "Wenn es warm draußen ist und du dich erfrischen möchtest, dann genieße das schöne Wetter im Freibad oder fahr an den See. Eine schöne Übersicht mit den besten Freibädern findest du hier und in diesem Artikel findest du die schönsten Badeseen.",
+        "indoor": "Ja",
+        "allone": "Ja/Nein"
+    }
+  ]
